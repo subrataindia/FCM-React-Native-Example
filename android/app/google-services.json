@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30314181618",
+    "project_id": "mymasai-school",
+    "storage_bucket": "mymasai-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30314181618:android:a65e0326172be314e0316b",
+        "android_client_info": {
+          "package_name": "com.subrat1977.fcmExample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30314181618-relts2ed0ivq20ieotghern64kvudp07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgreC7GCsRyE5-iunooV_LqsddFHsIbek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30314181618-relts2ed0ivq20ieotghern64kvudp07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
